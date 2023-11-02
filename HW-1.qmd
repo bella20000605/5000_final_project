@@ -1,0 +1,117 @@
+# Homework-1
+
+## Details 
+
+**NOTE**: Please refer to the [syllabus](https://jfh.georgetown.domains/dsan5000/) for all information about late penalties, deliverable information, expectations, grading policies, etc.
+
+**DUE DATES**: Due dates can be found on each assignment's canvas page AND in the Canvas Syllabus
+
+**SUBMISSION**:
+
+- Put the following information in the text submission box (no file upload required)
+  - GU domains URL = INSERT THE URL FOR YOUR GU DOMAINS PROJECT WEBSITE 
+    - Your NAME and GU netID should be easy to see and find on your website. 
+    - There MUST be a tab on your website called "code" that takes you to your Github classroom cloud repository
+  - Github user-name = INSERT THE USERNAME FOR THE GITHUB ACCOUNT YOU ARE USING FOR THE PROJECT
+  - Github project repo URL = INSERT THE URL FOR YOUR GITHUB_CLASSROOM CLOUD REPO
+  - GU email address = INSERT YOUR GEORGETOWN EMAIL ADDRESS
+
+**IMPORTANT NOTES:**
+
+* If you have not done so already, please read over the portfolio project's page.
+  * [https://jfh.georgetown.domains/dsan5000/specific/project.html](https://jfh.georgetown.domains/dsan5000/specific/project.html)
+* There are always many ways to complete and interpret assignments
+* Read the assignment below. Think about the goals, **the bigger picture**, the learning aspects, and how to be creative and unique. If you are unsure about a detail - create a good solution. There are many ways to create excellence. **At the graduate level, it is up to you to best determine these and to meet and exceed expectations and specifications.** 
+
+## Assignment
+
+
+ **(1) Set up a GitHub account using your Georgetown email address**
+
+* **NOTE**: If you have an existing GitHub account, you can also use that
+* See the following link for more instructions on setting up an account: [click here](https://docs.github.com/en/get-started/onboarding/getting-started-with-your-github-account)
+
+ **(2)  Accept the GitHub Classroom assignment invitation using your GitHub account**
+
+* YOU **MUST** use GitHub Classroom, DO NOT create a separate GitHub repository for your project. 
+* **Use the following link to accept the GitHub classroom assignment**
+* [https://classroom.github.com/a/JHg6HXli](https://classroom.github.com/a/JHg6HXli)
+* Clone the repository to your local machine, this will provide you with a "toy" example of a project git-repo directory tree. 
+  * Obviously your project's directory tree will be much more complicated and have many more files. 
+  * You don't have to adhere to this rigid file structure, however, it is provided to get you started. 
+  * This will be discussed in more detail during week-03 of the course
+  * Your primary work-space should be the clone of your git repo onto your laptop 
+  * You should frequently be syncing this to GitHub to back your work up to the cloud (e.g. git add; git commit; git push)
+    * *Your commit frequency and use of `git` will be factored into your final grade* 
+  * **NOTE ON DATA STORAGE**: If your data files are small, then you can host them inside your git-repo (Maximum file size on GitHub is **50MB** )
+    * If they are too large then you can store them on your laptop outside of the repo and "point" to them 
+    * Alternatively you can store them inside the repo and use `.gitignore` (recommended)
+  * The folder should be the "master" version of your website. However, you should sync it with GU domains BEFORE assignments are due. 
+    * This will keep your website up to date. A script is provided to accomplish this syncing in an easy fashion. 
+* You `MUST` keep the repository organized in a logical fashion and free of `bloat` 
+  
+**(3)  Start building your project website on GU domains.** 
+
+* During module-1 you will start to build the skeleton of your website. 
+* An example is provided in the GitHub assignment, however you MUST customize this and "make it your own".
+* It is `HIGHLY HIGHLY RECOMMENDED` that you use `Quarto` to build your project website.  
+  * We will show you how to build `Quarto websites` during `week-03` of the class.   
+  * Building a website with `Quarto` is `MUCH easier` than building on without it. 
+  * Building a website without `Quarto` requires a deep under-standing of `html` and `css`. 
+    * This is **NOT** a front-end development class! We will not go deep into `html` and `css` during the class. Therefore, if you decide not to use `Quarto`, you will have to learn them by yourself "on the side".
+* Remember, your website is just a collection of files, so don't worry! Everything you build can easily be moved to your own web-space after you graduate. 
+* We are very flexible on the overall look and feel of your website and encourage creativity and uniqueness, however, we **REQUIRE AT LEAST THE FOLLOWING TABS (PAGES) to be in all Portfolios:**
+* DO NOT CHANGE THE NAMES. If you do, the penalty is -5% per tab.
+  - About You (You can name this one anyway you wish) All other names below cannot be changed.
+  - Code: 
+    - This can be a click through link to the GitHub repo
+  - Data 
+    * **Small data:** If your data is small enough to be hosted on GitHub then the "data" tab should link to your private GitHub classroom assignment repository. Keep the data organized in a logical way, ideally in a centralized "data" folder some-where. 
+    * **Bigger data:** If you have too much data for GitHub then you can host your data files on GU domains (or Google-drive)
+  - Introduction
+  - Data Gathering
+  - Data Cleaning
+  - Data Exploration
+  - Clustering
+  - Dimensionality reduction
+  - Decision Trees
+    - Classification
+    - Regression 
+  - ARM
+  - Conclusions
+* **IMPORTANT NOTE:** AS A ROUGH ESTIMATE, EACH TAB SHOULD CONTAIN ***AT LEAST*** 1000 WORDS BY THE END OF THE SEMESTER
+* As part of HW-1, you MUST build out the skeleton of your website, it should have all tabs, but everything other than `Introduction`, `About You`, `Data`, and `Code` can be left as a blank placeholder until later in the course. 
+
+**(4)  Choose a Data Science Topic** that you can create at least 10 questions about. 	
+
+* See the portfolio project assignment page for more information on choosing a topic.
+* Please do not ask professors or the TAs for a topic, be creative and original
+* **LINK TO CLAIM YOUR TOPIC**
+  * [Click here to claim your topic](https://docs.google.com/spreadsheets/d/1kfPKeub87489lSnL3p7DYVdQFjpN_cDYG3iwEa_QUMA/edit#gid=1153849618)
+    * This is the same spreadsheet as in the "share-point" tab on the course website
+  * **NOTE**: You must be logged into your Georgetown email to access this. 
+*  **Avoid choosing an "already done" and common Kaggle topic.** 
+* `Can you change your topic?` 
+  * Yes - but you will need to edit this link. You can change until the end of module-1. 
+  * After that, it needs to remain fixed so that you can perform the next set of tasks. 
+
+**(5) For HW-1, create a more or less finalized "About you page"** 
+
+* You can build off the work that you do during **lab-1.1** for this part. 
+
+**(6) For HW-1, create a relatively finalized "Introduction" Page.** 
+
+- In the **Introduction** tab, focus on the following; 
+  - You `MUST` find `TWO` academic publications, relevant to your topic, and summarize (and cite) them in your introduction tab. 
+  - This section should include paragraphs that summarize the topic, why it is important, why the reader should continue, what work has been done in the past by other research groups, what are the “different points of views”/interpretations in the literature, what are you exploring, what questions are you trying to address, what are your goals and hypothesis, etc
+  - You `MUST` include internal academic citations in your project, where relevant.  
+  - You `MUST` create and include at least `10 questions` that you plan to answer for your topic. 
+  - You DO NOT need to write your entire Intro yet but it should be a serious attempt at a well polished draft. 
+  - You will update and polish this  more later, this is just to get you started. Your questions may change later, but get started now.
+
+**(7) Start exploring possible data sources for your project**. 
+ 
+* We will go into this in more detail in module-2, but start looking now
+* Try to get as many formats as possible;
+  * e.g. `labeled data, qualitative data, quantitative data, text data (such as from BBC News, Wikipedia, or Twitter), Geo data (such as locations), record-data etc. 
+* There is no submission requirement for this part of HW-1, i.e. your data gather tab can be left blank. But get started early. 
